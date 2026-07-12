@@ -1,0 +1,6 @@
+{
+  "name": "Chrome Multi-Tab Opener",
+  "description": "A privacy-focused multi-tab manager with per-profile proxy, custom User-Agents, and browser fingerprint spoofing for secure multi-account management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
